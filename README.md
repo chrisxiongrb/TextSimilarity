@@ -1,4 +1,5 @@
-# Similarity Feature Extractor for `Deep Hybrid Collaborative Filtering for Web Service Recommendation`
+# Similarity Feature Extractor
+An similarity feature extractor example for `Deep Hybrid Collaborative Filtering for Web Service Recommendation`
 - File description
     - similarity_extractor.py: the source code of the similarity feature extractor.
     - data/embedding.npy: an small embedding set used by the example. It's an numpy array
